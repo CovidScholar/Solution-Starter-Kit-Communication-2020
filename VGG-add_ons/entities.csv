@@ -1,0 +1,28 @@
+coronavirus,coronavirus,corona,virus check,virus,COVID-19,COVID,coronavirus,corona-virus,carona-virus,Carona,Korona,Korona-virus,COVID19
+funding,financial assistance,financial help,financial aid
+funding,financial
+funding,money
+funding,aid
+funding,welfare,social,economic,financial,downturn,recession,slowdown,crisis,finance,decline
+funding,grant,financial assistance ,financial aword,grants,funding,scholarship,subsidization,scholarships,funds,fellowships,subsidies,subsidizing,financing,fund,fellowship,subsidized,awards
+funding,loan,financial aid,aid,grant,loans,credit,debt,aids,borrow,borrowing,grants,lenders
+help,assistance
+landmark,times square,times sqaure,time square,time sqaure
+landmark,grand central
+landmark,empire state building,emprire state,empire state
+location,New South Wales
+location,California
+location,New York
+location,Boston
+location,America U.S.A.
+location,Alabama
+location,Texas
+phone,US Phone pattern,/(\d{3})-(\d{3})-(\d{4})/
+reply,no,not now,not at this time,nope,i think not,dont think so,don't think so,definitely not
+reply,yes,yep,you betcha,you bet,yes,yeah,why not,sure,please,ok,let's do it,go for it,definitely
+school_type,grade school
+school_type,high school
+school_type,preschool
+school_type,college
+school_type,middle school
+zip_code,@sys-number,/(\b|\s)\d{5}(\b|\s)/
